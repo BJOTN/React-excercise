@@ -1,0 +1,1 @@
+Crea un componente React che consente agli utenti di inserire l'ID di un post e visualizzare il titolo del post dalla JSONPlaceholder API. Limita la lista dei post a 5 e assicurati di gestire gli errori.

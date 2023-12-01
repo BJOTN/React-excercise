@@ -1,0 +1,1 @@
+Crea un contatore di personaggi di Star Wars. Ogni volta che un utente fa clic su un pulsante, ottieni casualmente un personaggio da SWAPI (Star Wars API) e aggiorna il contatore.
